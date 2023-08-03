@@ -37,7 +37,9 @@ export default function App() {
   const numQuestions = questions.length;
 
   useEffect(function () {
-    fetch("http://localhost:8000/questions")
+    fetch(
+      "https://raw.githubusercontent.com/armangral/Quizfinity/master/data/questions.json"
+    )
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dataReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));
