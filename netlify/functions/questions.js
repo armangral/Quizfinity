@@ -4,7 +4,7 @@ const path = require("path");
 exports.handler = async function (event, context) {
   try {
     const data = fs.readFileSync(
-      path.join(__dirname, "./questions.json"),
+      path.join(__dirname, "questions.json"),
       "utf8"
     );
     return {
