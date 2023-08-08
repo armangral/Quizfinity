@@ -93,12 +93,11 @@ export default function App() {
     0
   );
   useEffect(function () {
-    fetch(
-      // "https://raw.githubusercontent.com/armangral/Quizfinity/master/data/questions.json"
-      "http://localhost:8000/questions"
-    )
+    fetch("/.netlify/functions/questions")
       .then((res) => res.json())
-      .then((data) => dispatch({ type: "dataReceived", payload: data }))
+      .then((data) =>
+        dispatch({ type: "dataReceived", payload: data.questions })
+      )
       .catch((err) => dispatch({ type: "dataFailed" }));
   }, []);
 
