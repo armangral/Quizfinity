@@ -1,20 +1,14 @@
-const fs = require("fs");
-const path = require("path");
-
 exports.handler = async function (event, context) {
   try {
-    const data = fs.readFileSync(
-      path.join(__dirname, "questions.json"),
-      "utf8"
-    );
+    const questions = require("./questions.json");
     return {
       statusCode: 200,
-      body: data,
+      body: JSON.stringify(questions),
     };
   } catch (error) {
     return {
       statusCode: 500,
-      body: `Error: ${error}`,
+      body: `Error: ${error.message}`, // message property will give you a more readable error
     };
   }
 };
