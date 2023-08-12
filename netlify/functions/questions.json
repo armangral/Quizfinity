@@ -79,6 +79,156 @@
       ],
       "correctOption": 2,
       "points": 10
+    },
+    {
+      "question": "Which river is the longest in Pakistan?",
+      "options": ["Jhelum", "Chenab", "Indus", "Kabul"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the national fruit of Pakistan?",
+      "options": ["Mango", "Orange", "Apple", "Banana"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which mausoleum is the final resting place of Quaid-e-Azam Muhammad Ali Jinnah?",
+      "options": [
+        "Lahore Fort",
+        "Shalimar Gardens",
+        "Badshahi Mosque",
+        "Mazar-e-Quaid"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which mountain in Pakistan is the second highest in the world?",
+      "options": ["Nanga Parbat", "Rakaposhi", "K2", "Masherbrum"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which city is known as the 'City of Saints'?",
+      "options": ["Karachi", "Lahore", "Multan", "Sialkot"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which province of Pakistan is its largest by area?",
+      "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "In which year was the Pakistan Resolution passed?",
+      "options": ["1935", "1940", "1945", "1946"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which poet is known as the national poet of Pakistan?",
+      "options": [
+        "Faiz Ahmed Faiz",
+        "Allama Iqbal",
+        "Parveen Shakir",
+        "Habib Jalib"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In which city is the Minar-e-Pakistan located?",
+      "options": ["Islamabad", "Karachi", "Rawalpindi", "Lahore"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which city is the industrial hub of Pakistan?",
+      "options": ["Faisalabad", "Karachi", "Gujranwala", "Sialkot"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which region of Pakistan is famous for its high-quality rugs and carpets?",
+      "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The Edhi Foundation, one of the largest and most organized charitable organizations in Pakistan, was founded by?",
+      "options": [
+        "Imran Khan",
+        "Perween Rahman",
+        "Malala Yousafzai",
+        "Abdul Sattar Edhi"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the traditional sport of Pakistan?",
+      "options": ["Cricket", "Field Hockey", "Football", "Polo"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The Khyber Pass connects Pakistan with which neighboring country?",
+      "options": ["China", "India", "Afghanistan", "Iran"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which desert is located in the province of Sindh?",
+      "options": [
+        "Kharan Desert",
+        "Thar Desert",
+        "Cholistan Desert",
+        "Nushki Desert"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Pakistan's national anthem was composed by?",
+      "options": [
+        "Faiz Ahmed Faiz",
+        "Hafeez Jullundhri",
+        "Allama Iqbal",
+        "Ghulam Ishaq Khan"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "The Karakoram Highway connects Pakistan with which country?",
+      "options": ["Nepal", "China", "India", "Afghanistan"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In which city is the famous Badshahi Mosque located?",
+      "options": ["Islamabad", "Karachi", "Rawalpindi", "Lahore"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "The Saiful Mulook Lake is located near which city?",
+      "options": ["Quetta", "Karachi", "Naran", "Murree"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which famous Mughal structure is located in Sheikhupura?",
+      "options": [
+        "Shalimar Gardens",
+        "Lahore Fort",
+        "Hiran Minar",
+        "Jahangir's Tomb"
+      ],
+      "correctOption": 2,
+      "points": 10
     }
   ]
 }
