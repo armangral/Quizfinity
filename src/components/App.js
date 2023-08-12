@@ -68,7 +68,7 @@ function reducer(state, action) {
       return { ...state, index: state.index + 1, answer: null };
 
     case "restart":
-      return { ...initialState, status: "ready" };
+      return { ...initialState, questions: state.questions, status: "ready" };
 
     case "tick":
       return {
@@ -92,21 +92,14 @@ export default function App() {
     (prev, curr) => prev + curr.points,
     0
   );
-
-  const fetchQuestionsFromServer = () => {
+  useEffect(function () {
     fetch("/.netlify/functions/questions")
       .then((res) => res.json())
       .then((data) =>
         dispatch({ type: "dataReceived", payload: data.questions })
       )
       .catch((err) => dispatch({ type: "dataFailed" }));
-  };
-
-  useEffect(() => {
-    if (status === "ready") {
-      fetchQuestionsFromServer();
-    }
-  }, [status]);
+  }, []);
 
   return (
     <div className="app">
