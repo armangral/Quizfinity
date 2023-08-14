@@ -229,6 +229,151 @@
       ],
       "correctOption": 2,
       "points": 10
+    },
+    {
+      "question": "Which Pakistani city is known as the 'Manchester of Pakistan'?",
+      "options": ["Karachi", "Lahore", "Faisalabad", "Sialkot"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "In which province is the Gwadar port located?",
+      "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which river passes through the city of Lahore?",
+      "options": ["Jhelum", "Chenab", "Ravi", "Indus"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "The famous Mohenjo-daro archaeological site belongs to which ancient civilization?",
+      "options": ["Mauryan", "Vedic", "Gandhara", "Indus Valley"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which is the smallest province of Pakistan in terms of area?",
+      "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which city of Pakistan is famous for producing sports goods?",
+      "options": ["Karachi", "Lahore", "Multan", "Sialkot"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which Pakistani leader signed the Simla Agreement in 1972?",
+      "options": [
+        "Ayub Khan",
+        "Yahya Khan",
+        "Benazir Bhutto",
+        "Zulfikar Ali Bhutto"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Where is the Pakistan Monument located?",
+      "options": ["Karachi", "Islamabad", "Lahore", "Multan"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who wrote the famous book 'The Jinnah of Pakistan'?",
+      "options": [
+        "Fatima Jinnah",
+        "Stanley Wolpert",
+        "Hector Bolitho",
+        "Ayesha Jalal"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following sites is located in Taxila?",
+      "options": ["Mohenjo-daro", "Harappa", "Mehrgarh", "Dharmarajika Stupa"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "In which city is Pakistan's oldest museum located?",
+      "options": ["Karachi", "Peshawar", "Lahore", "Quetta"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which of the following passes connects Pakistan and China?",
+      "options": ["Khyber Pass", "Bolan Pass", "Khunjerab Pass", "Gomal Pass"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which region of Pakistan is known for its folk dance called 'Attan'?",
+      "options": ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which Pakistani city is known for its marble industry?",
+      "options": ["Karachi", "Rawalpindi", "Lahore", "Mardan"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which Pakistani cricketer is known as 'Rawalpindi Express'?",
+      "options": ["Wasim Akram", "Waqar Younis", "Shoaib Akhtar", "Imran Khan"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of the following emperors built the Badshahi Mosque?",
+      "options": ["Babur", "Aurangzeb", "Akbar", "Jahangir"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which famous Pakistani scientist is known for his work on the Higgs Boson?",
+      "options": [
+        "Pervez Hoodbhoy",
+        "Dr. Abdus Salam",
+        "Dr. Atta-ur-Rahman",
+        "Dr. Samar Mubarakmand"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the provincial bird of Punjab?",
+      "options": [
+        "Shaheen Falcon",
+        "Sindh Sparrow",
+        "Chukar Partridge",
+        "Himalayan Monal"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which Sufi poet wrote 'Heer Ranjha'?",
+      "options": [
+        "Bulleh Shah",
+        "Fariduddin Ganjshakar",
+        "Shah Abdul Latif Bhittai",
+        "Waris Shah"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "The K-Electric football club is based in which city?",
+      "options": ["Karachi", "Lahore", "Faisalabad", "Multan"],
+      "correctOption": 0,
+      "points": 10
     }
   ]
 }

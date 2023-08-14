@@ -4,7 +4,9 @@
   --color-medium: #ced4da;
   --color-light: #f1f3f5;
 
-  --color-theme: #1098ad;
+  /* --color-theme: #1098ad; */
+  --color-theme: #008000;
+
   --color-accent: #ffa94d;
 }
 
@@ -64,7 +66,7 @@ img {
 
 h1 {
   font-family: "Poppins", sans-serif;
-  color: var(--color-accent);
+  color: var(--color-theme);
   font-size: 5.6rem;
   margin-left: 4rem;
 }
