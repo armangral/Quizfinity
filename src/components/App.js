@@ -11,7 +11,7 @@ import FinishScreen from "./FinishScreen";
 import Timer from "./Timer";
 import Footer from "./Footer";
 
-const secs_per_ques = 15;
+const secs_per_ques = 2;
 
 const initialState = {
   questions: [],
@@ -72,6 +72,7 @@ function reducer(state, action) {
       return {
         ...initialState,
         questions: state.questions,
+        highscore: state.highscore,
         status: "ready",
       };
 
@@ -80,6 +81,8 @@ function reducer(state, action) {
         ...state,
         secondsRemaining: state.secondsRemaining - 1,
         status: state.secondsRemaining === 0 ? "finished" : state.status,
+        highscore:
+          state.points > state.highscore ? state.points : state.highscore,
       };
 
     case "setReloadFlag":
